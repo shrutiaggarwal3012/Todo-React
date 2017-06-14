@@ -1,0 +1,19 @@
+.TodoListItem {
+	color: blue;
+	display: block;
+    padding: 5px;
+    border: 0.5px solid #EEE;
+}
+
+.TodoListItem p{
+	color: gray;
+}
+
+.TodoListItem  span {
+	color: brown;
+	font-size: 16px;
+	margin-left: 12px;
+}
+
+.TodoListItem input {
+}
